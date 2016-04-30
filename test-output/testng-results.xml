@@ -1,0 +1,53 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<testng-results skipped="0" failed="0" total="9" passed="9">
+  <reporter-output>
+  </reporter-output>
+  <suite name="Default suite" duration-ms="220017" started-at="2016-04-30T17:07:23Z" finished-at="2016-04-30T17:11:03Z">
+    <groups>
+    </groups>
+    <test name="Default test" duration-ms="220017" started-at="2016-04-30T17:07:23Z" finished-at="2016-04-30T17:11:03Z">
+      <class name="com.guru99ecommercetest.TestCasesTest">
+        <test-method status="PASS" signature="initialize()[pri:0, instance:com.guru99ecommercetest.TestCasesTest@7f690630]" name="initialize" is-config="true" duration-ms="620" started-at="2016-04-30T18:07:23Z" finished-at="2016-04-30T18:07:24Z">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- initialize -->
+        <test-method status="PASS" signature="TestCase01()[pri:0, instance:com.guru99ecommercetest.TestCasesTest@7f690630]" name="TestCase01" duration-ms="12728" started-at="2016-04-30T18:07:24Z" finished-at="2016-04-30T18:07:37Z">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- TestCase01 -->
+        <test-method status="PASS" signature="TestCase02()[pri:0, instance:com.guru99ecommercetest.TestCasesTest@7f690630]" name="TestCase02" duration-ms="10602" started-at="2016-04-30T18:07:37Z" finished-at="2016-04-30T18:07:47Z">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- TestCase02 -->
+        <test-method status="PASS" signature="TestCase03()[pri:0, instance:com.guru99ecommercetest.TestCasesTest@7f690630]" name="TestCase03" duration-ms="17592" started-at="2016-04-30T18:07:47Z" finished-at="2016-04-30T18:08:05Z">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- TestCase03 -->
+        <test-method status="PASS" signature="TestCase04()[pri:0, instance:com.guru99ecommercetest.TestCasesTest@7f690630]" name="TestCase04" duration-ms="18138" started-at="2016-04-30T18:08:05Z" finished-at="2016-04-30T18:08:23Z">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- TestCase04 -->
+        <test-method status="PASS" signature="TestCase05()[pri:0, instance:com.guru99ecommercetest.TestCasesTest@7f690630]" name="TestCase05" duration-ms="18738" started-at="2016-04-30T18:08:23Z" finished-at="2016-04-30T18:08:42Z">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- TestCase05 -->
+        <test-method status="PASS" signature="TestCase06()[pri:0, instance:com.guru99ecommercetest.TestCasesTest@7f690630]" name="TestCase06" duration-ms="27037" started-at="2016-04-30T18:08:42Z" finished-at="2016-04-30T18:09:09Z">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- TestCase06 -->
+        <test-method status="PASS" signature="TestCase08()[pri:0, instance:com.guru99ecommercetest.TestCasesTest@7f690630]" name="TestCase08" duration-ms="32927" started-at="2016-04-30T18:09:09Z" finished-at="2016-04-30T18:09:42Z">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- TestCase08 -->
+        <test-method status="PASS" signature="TestCase09()[pri:0, instance:com.guru99ecommercetest.TestCasesTest@7f690630]" name="TestCase09" duration-ms="44472" started-at="2016-04-30T18:09:42Z" finished-at="2016-04-30T18:10:26Z">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- TestCase09 -->
+        <test-method status="PASS" signature="TestCase10()[pri:0, instance:com.guru99ecommercetest.TestCasesTest@7f690630]" name="TestCase10" duration-ms="37133" started-at="2016-04-30T18:10:26Z" finished-at="2016-04-30T18:11:03Z">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- TestCase10 -->
+      </class> <!-- com.guru99ecommercetest.TestCasesTest -->
+    </test> <!-- Default test -->
+  </suite> <!-- Default suite -->
+</testng-results>

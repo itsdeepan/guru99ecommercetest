@@ -1,0 +1,6 @@
+2016-04-30 18:09:16,228 [main] INFO com.guru99ecommercetest.TestCasesTest - Open Application
+2016-04-30 18:09:16,502 [main] INFO com.guru99ecommercetest.TestCasesTest - Click Account Link
+2016-04-30 18:09:19,132 [main] INFO com.guru99ecommercetest.TestCasesTest - Login using previously created credetial
+2016-04-30 18:09:28,737 [main] INFO com.guru99ecommercetest.TestCasesTest - click reorder link
+2016-04-30 18:09:36,054 [main] INFO com.guru99ecommercetest.TestCasesTest - Complete Billing & Shipping information
+2016-04-30 18:09:37,140 [main] INFO com.guru99ecommercetest.TestCasesTest - Verify order is generated
