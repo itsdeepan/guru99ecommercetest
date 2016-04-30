@@ -15,7 +15,6 @@ public class SalesOrderPage {
 	WebElement exportBtn;
 	public void selectCSVFileAndExport(WebDriver driver, String fileType) {
 		
-		String currentWindow = driver.getWindowHandle();
 		
 		WebUtil.waitForElementVisibility(driver, salesOrder);
 		WebUtil.selectDropDownMenu(salesOrder, fileType);

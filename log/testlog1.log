@@ -4,3 +4,12 @@
 2016-04-30 18:09:28,737 [main] INFO com.guru99ecommercetest.TestCasesTest - click reorder link
 2016-04-30 18:09:36,054 [main] INFO com.guru99ecommercetest.TestCasesTest - Complete Billing & Shipping information
 2016-04-30 18:09:37,140 [main] INFO com.guru99ecommercetest.TestCasesTest - Verify order is generated
+2016-04-30 18:56:40,352 [main] INFO com.guru99ecommercetest.TestCasesTest - Open Application
+2016-04-30 18:56:40,593 [main] INFO com.guru99ecommercetest.TestCasesTest - Click Account Link
+2016-04-30 18:56:43,514 [main] INFO com.guru99ecommercetest.TestCasesTest - Login using previously created credetial
+2016-04-30 19:00:41,448 [main] INFO com.guru99ecommercetest.TestCasesTest - Open Application
+2016-04-30 19:00:41,685 [main] INFO com.guru99ecommercetest.TestCasesTest - Click Account Link
+2016-04-30 19:00:44,369 [main] INFO com.guru99ecommercetest.TestCasesTest - Login using previously created credetial
+2016-04-30 19:00:48,038 [main] INFO com.guru99ecommercetest.TestCasesTest - click reorder link
+2016-04-30 19:00:54,622 [main] INFO com.guru99ecommercetest.TestCasesTest - Complete Billing & Shipping information
+2016-04-30 19:00:56,266 [main] INFO com.guru99ecommercetest.TestCasesTest - Verify order is generated

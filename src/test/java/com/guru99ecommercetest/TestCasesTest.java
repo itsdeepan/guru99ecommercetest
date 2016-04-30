@@ -1,6 +1,5 @@
 package com.guru99ecommercetest;
 
-import org.testng.annotations.AfterMethod;
 import org.testng.annotations.Test;
 import org.testng.AssertJUnit;
 import java.util.Random;
@@ -8,11 +7,9 @@ import org.apache.log4j.Logger;
 import org.apache.log4j.PropertyConfigurator;
 import org.openqa.selenium.WebDriver;
 import org.openqa.selenium.firefox.FirefoxDriver;
-import org.testng.Assert;
 import org.testng.ITestResult;
 import org.testng.annotations.AfterMethod;
 import org.testng.annotations.BeforeTest;
-import org.testng.annotations.Test;
 
 import com.gur99ecommercetest.pageobjects.CheckOutCartPage;
 import com.gur99ecommercetest.pageobjects.CheckOutOnePage;
@@ -586,7 +583,7 @@ public class TestCasesTest {
 	}
 
 	// Take screen shots when test case failed
-
+	@AfterMethod
 	public void tearDown(ITestResult result) {
 
 		if (ITestResult.FAILURE == result.getStatus()) {
